@@ -1,4 +1,4 @@
-# React homework template 1
+# React homework template
 
 Этот проект был создан при помощи
 [Create React App](https://github.com/facebook/create-react-app). Для знакомства
