@@ -7,11 +7,11 @@ export const StatisticSection = styled.section`
   flex-direction: column;
 
   width: 300px;
-  overflow: hidden;
+  overflow: hidden;  
   margin-left: auto;
   margin-right: auto;
 
-  box-shadow: ${props => props.theme.shadows.regular}}; 
+  box-shadow: ${props => props.theme.shadows.regular}; 
   background-color: #fff;  
 `;
 

@@ -11,7 +11,7 @@ export const FriendsList = styled.ul`
   margin-left: auto;
   margin-right: auto;
 
-  box-shadow: ${props => props.theme.shadows.regular}}; 
+  box-shadow: ${props => props.theme.shadows.regular}; 
  `;
 
 export const FriendsItem = styled.li`
@@ -22,7 +22,7 @@ export const FriendsItem = styled.li`
   margin-top: 10px;
   margin-bottom: 10px;
   background-color: ${props => props.theme.colors.lightGrey};
-  box-shadow: ${props => props.theme.shadows.regular}};
+  box-shadow: ${props => props.theme.shadows.regular};
 `;
 export const FriendsStatus = styled.span`
   display: block;
